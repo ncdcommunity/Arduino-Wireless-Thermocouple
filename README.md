@@ -1,7 +1,17 @@
-# Arduino-Wireless-Thermocouple
-Long range wireless Thermocouple for Arduino
-Long Range wireless Industrial temperature Thermocouple sensor Long range wireless temp humidity sensor can be found over here https://store.ncd.io/product/long-range-wireless-thermocouple-sensor-high-temperature-sensor/
+# Arduino-Wireless-Thermocouple-Sensor
+Industrial Wireless IoT Thermocouple Sensor Arduino Code
 
-Install run time engine from here 64bit http://www.ni.com/download/labview-run-time-engine-2017/6821/en/
+Hardware needed for this test
+IoT wireless temperature Humidity Sensor
 
-32 bit http://www.ni.com/download/labview-run-time-engine-2017/6822/en/
+https://store.ncd.io/product/iot-long-range-wireless-thermocouple-temperature-sensor/
+
+Arduino Wireless Shield
+
+https://store.ncd.io/product/dual-i2c-shield-for-arduino-due-with-modular-communications-interface/
+
+Arduino IDE
+
+Wireless Sensor product manual can be found over here
+
+https://ncd.io/long-range-iot-wireless-thermocouple-sensor-product-manual/
