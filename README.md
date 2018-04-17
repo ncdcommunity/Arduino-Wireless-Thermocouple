@@ -2,7 +2,7 @@
 Industrial Wireless IoT Thermocouple Sensor Arduino Code
 
 Hardware needed for this test
-IoT wireless temperature Humidity Sensor
+IoT wireless Thermocouple Sensor
 
 https://store.ncd.io/product/iot-long-range-wireless-thermocouple-temperature-sensor/
 
